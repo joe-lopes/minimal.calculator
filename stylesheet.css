@@ -60,7 +60,7 @@ header {
     font-size: 70px;
     font-weight: 400;
     padding: 0 0.5rem;
-    background: aliceblue;
+    background: #deefff;
     border-radius: 1rem;
 }
 
@@ -83,7 +83,7 @@ header {
     color: rgba(0, 0, 0, 0.801);
 }
 .btn-others {
-    background-color: #a5a5a5;
+    background-color: #808080a8;
     padding-top: 0;
     padding-bottom: 0;
     font-size: 24px;
