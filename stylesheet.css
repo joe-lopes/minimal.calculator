@@ -33,7 +33,7 @@ body {
     justify-content: space-around;
 }
 
-#calculator .btn {
+.btn {
     margin: 0;
     border-radius: 39px;
     border: none;
@@ -42,10 +42,10 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-#calculator .btn:hover {
+.btn:hover, .bt:hover {
     background-color: #BCBCBC;
 }
-#calculator .btn:active {
+.btn:active, .bt:active {
     background-color: #909090;
 }
 header {
@@ -74,7 +74,7 @@ header {
     color: rgb(255 255 255);
 }
 
-.btn-number {
+.btn {
     background-color: #dbdbdb;
     font-size: 24px;
     padding-top: 0;
@@ -82,11 +82,11 @@ header {
     font-weight: 500;
     color: rgba(0, 0, 0, 0.801);
 }
-.btn-others {
+/*.btn {
     background-color: #808080a8;
     padding-top: 0;
     padding-bottom: 0;
     font-size: 24px;
     font-weight: 400;
     color: white;
-}   
+} */  
