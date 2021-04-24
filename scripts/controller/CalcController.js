@@ -27,8 +27,13 @@ class CalcController{
         this.pasteFromClipboard();
     }
 
-    /*
-    
+    /*SYSTEM METHODS (entrys and features)
+    ** 1. initButtons()
+    ** 2. initKeyboard()
+    ** 3. manageKeys(key)
+    ** 4. copyToClipboard()
+    ** 5. pasteFromClipboard()
+    ** 6. lastEntry()
     */ 
     initButtons(){
 
