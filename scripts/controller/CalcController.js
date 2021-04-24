@@ -1,6 +1,6 @@
 class CalcController {
 
-    
+
     constructor(){
 
         this.audio = new Audio("mario.mp3");
@@ -404,3 +404,4 @@ class CalcController {
         this.timeTag.innerHTML = fullTime;
     }
 }
+
