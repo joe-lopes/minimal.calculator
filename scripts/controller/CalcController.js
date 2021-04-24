@@ -219,7 +219,14 @@ class CalcController{
         }
     } 
 
-
+    /*MANAGE KEYS (numbers and operators)
+    ** 1. initButtons()
+    ** 2. initKeyboard()
+    ** 3. manageKeys(key)
+    ** 4. copyToClipboard()
+    ** 5. pasteFromClipboard()
+    ** 6. lastEntry()
+    */
     numbers(key){
 
         if(this.lastEntry() == "number") {
