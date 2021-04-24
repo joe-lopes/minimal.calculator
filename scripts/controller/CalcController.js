@@ -1,4 +1,4 @@
-class CalcController{
+class CalcController {
 
     constructor(){
 
